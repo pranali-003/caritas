@@ -1,0 +1,49 @@
+.hero-section{
+    max-width: 100%;
+    height: auto;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 12px;
+    margin: auto;
+    flex-direction: column;
+
+}
+.hero-text{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    max-width: 80%;
+    
+}
+.hero-heading{
+    font-size: 35px;
+}
+.hero-text p{
+    font-size: 18px;
+    font-weight: 300;
+    
+}
+.money-donation-heading{
+    margin-top: 30px;
+    font-style: bold;
+    font-size: 30px;
+    font-weight:bold;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 80%;
+
+}
+.money-donation{
+    max-width: 100%;
+    height: auto; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 12px;
+    margin-top: 30px;
+}
